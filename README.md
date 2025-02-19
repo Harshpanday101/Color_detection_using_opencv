@@ -19,7 +19,7 @@ This project detects a specific color object in a video stream using **OpenCV** 
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone git@github.com:Harshpanday101/Color_detection_using_opencv.git
+git clone https://github.com/Harshpanday101/Color_detection_using_opencv.git
 cd Color_detection_using_opencv
 ```
 
