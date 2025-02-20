@@ -26,7 +26,7 @@ cd Color_detection_using_opencv
 ### 2. Install Dependencies
 Ensure you have Python installed (recommended: Python 3.7+). Install the required libraries using:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## Usage
